@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Javascript, NodeJS, Vue/React ... Plan to add Golang in future
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
-
+- 🖥 My Setup is : M1 iMac, Macbook Pro. Im working in Webstorm.
 <!---
 ArmadOon/ArmadOon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
