@@ -42,6 +42,7 @@ ArmadOon/ArmadOon is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 </div>
+
 <div>
 :hammer_and_wrench: Languages and Tools : 
 <div>
@@ -58,12 +59,13 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres"  alt="Postgres" width="40" height="40"/>&nbsp;
 </div>
+  
 </div>
 
 <div align="center">
   :fire: My Stats :
-  https://github-readme-streak-stats.herokuapp.com/?user=ArmadOon
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArmadOon&theme=dark&background=000000)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=ArmadOon&theme=onedark" alt="GitHub Streak" /></a>
+  
 </div>
   
 </div>
