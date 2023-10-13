@@ -59,6 +59,10 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres"  alt="Postgres" width="40" height="40"/>&nbsp;
 </div>
 </div>
+
+<div align="center">
+  :fire: My Stats :
+</div>
   
 </div>
 
