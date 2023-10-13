@@ -31,11 +31,16 @@
 <hr>
 
 <div align="center">
-- 👋 Hi, I’m Martin Pluhar alias @ArmadOon 
+- 👋 Hi, I’m Martin Pluhar alias @ArmadOon
+  
 - 👀 I’m interested in ... Programming, Magic the gathering, DnD and other Nerd stuff :)
+- 
 - 🌱 I’m currently learning ... Java/Springboot...Javascript, Vue/Nuxt ... Plan to add Rust in future
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... 
+- 
+- 💞️ I’m looking to collaborate on ...
+-  
+- 📫 How to reach me ...
+- 
 - 🖥 My Setup is : M1 iMac, Macbook Pro. Im working in Webstorm/InteliJ
 <!---
 ArmadOon/ArmadOon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
