@@ -2,8 +2,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<hr>
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/martin-pluha%C5%99-51582a217/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -20,7 +18,7 @@
 
 <hr>
 
-<div>
+<div align="center">
   <h1>Hi there! 👋</h1>
 </div>
 
