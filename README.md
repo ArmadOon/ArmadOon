@@ -14,12 +14,12 @@
     <img src="https://komarev.com/ghpvc/?username=ArmadOon&style=flat-square&color=blue" alt=""/>
   </div>
 </div>
-
+<div>
 <h1>
   Hi there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
+</div>
 
 - 👋 Hi, I’m @ArmadOon alias Martin Pluhar
 - 👀 I’m interested in ... Programming, Magic the gathering, DnD and other Nerd stuff :)
