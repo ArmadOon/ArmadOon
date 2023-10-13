@@ -1,3 +1,18 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/martin-pluha%C5%99-51582a217/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+  <a href="https://twitter.com/Martin_Pluhy">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+</div>
+
+
 - 👋 Hi, I’m @ArmadOon alias Martin Pluhar
 - 👀 I’m interested in ... Programming, Magic the gathering, DnD and other Nerd stuff :)
 - 🌱 I’m currently learning ... Java/Springboot...Javascript, Vue/Nuxt ... Plan to add Rust in future
