@@ -43,9 +43,9 @@
 ArmadOon/ArmadOon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
----
-</div>
 
+</div>
+---
 <div align="center" id="badges">
 :hammer_and_wrench: Languages and Tools : 
 <div>
@@ -64,6 +64,7 @@ You can click the Preview link to take a look at your changes.
 </div>
   
 </div>
+---
 
 :fire: My Stats :
 <div align="center">
