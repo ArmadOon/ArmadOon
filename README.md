@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 --->
 </div>
 
-<div>
+<div align="center" id="badges">
 :hammer_and_wrench: Languages and Tools : 
 <div>
   <div>
