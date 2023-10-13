@@ -15,6 +15,12 @@
   </div>
 </div>
 
+<h1>
+  Hi there!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+
 - 👋 Hi, I’m @ArmadOon alias Martin Pluhar
 - 👀 I’m interested in ... Programming, Magic the gathering, DnD and other Nerd stuff :)
 - 🌱 I’m currently learning ... Java/Springboot...Javascript, Vue/Nuxt ... Plan to add Rust in future
