@@ -61,11 +61,11 @@ You can click the Preview link to take a look at your changes.
 </div>
   
 </div>
-:fire: My Stats : \n 
+:fire: My Stats :
 <div align="center">
   
   <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=ArmadOon&theme=onedark" alt="GitHub Streak" /></a>
-  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmadOon&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
   
 </div>
