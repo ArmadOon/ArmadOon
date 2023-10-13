@@ -61,9 +61,9 @@ You can click the Preview link to take a look at your changes.
 </div>
   
 </div>
-
+:fire: My Stats : \n 
 <div align="center">
-  :fire: My Stats :
+  
   <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=ArmadOon&theme=onedark" alt="GitHub Streak" /></a>
   
 </div>
