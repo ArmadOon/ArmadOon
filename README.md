@@ -27,7 +27,9 @@
 </div>
 </div>
 
-<div>
+
+</div>
+<div align="center">
 
 - 👋 Hi, I’m Martin Pluhar alias @ArmadOon 
 - 👀 I’m interested in ... Programming, Magic the gathering, DnD and other Nerd stuff :)
@@ -40,6 +42,10 @@ ArmadOon/ArmadOon is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 </div>
+<div>
+### :hammer_and_wrench: Languages and Tools : 
+  
 </div>
+
 
 
