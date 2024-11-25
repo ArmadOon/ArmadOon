@@ -33,10 +33,11 @@
 <div align="center">
   
 - 👋 Hi, I’m Martin Pluhar alias @ArmadOon
+- Currently working in <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Komer%C4%8Dn%C3%AD_banka_logo.svg" title="KB" alt="KB"/>&nbsp;
   
 - 👀 I’m interested in ... Programming, Magic the gathering, DnD and other Nerd stuff :)
   
-- 🌱 I’m currently working in Komerční banka <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Komer%C4%8Dn%C3%AD_banka_logo.svg" title="KB" alt="KB" width="40" height="40"/>&nbsp; ... Working with Java/Kotlin with Springboot in microservice enviroment
+- 🌱 I’m currently working in Komerční banka ... Working with Java/Kotlin with Springboot in microservice enviroment
 - 💞️ I’m looking to collaborate on ...
   
 - 📫 How to reach me ...
